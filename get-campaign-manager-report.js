@@ -5,7 +5,9 @@
 * Pushes the latest file from a Google Campaign Manager report to Google Sheets
 *
 * Version: 1.0
+*
 * Google Apps Script maintained by Frederic Harnois
+* fred@fredericharnois.com
 *
 **/
 
